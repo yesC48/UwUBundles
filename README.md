@@ -8,11 +8,11 @@ Yeah, im bad at creatibg logotypes.
 
 -----
 progress:
-✓ Menus
-✓ Information/dialogue windows
-✓ Unit names
-∆ Block names (i need to replace them with unique names)
-X Block names
-✓ Campaign maps names
-X Campaign maps descriptions
-X Hints
+* ✓ Menus
+* ✓ Information/dialogue windows
+* ✓ Unit names
+* ∆ Block names (i need to replace them with unique names)
+* X Block descriptions
+* ✓ Campaign maps names
+* X Campaign maps descriptions
+* X Hints
