@@ -3,9 +3,6 @@ A mod that's replacing the default english bundle with an UwU language bundle.
 ***Found a spelling mistake? Any ideas for improvement? Feel free to create a pull request.***
 
 
-
-Yeah, im bad at creatibg logotypes.
-
 -----
 progress:
 * ✓ Menus
