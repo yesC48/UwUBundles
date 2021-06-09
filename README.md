@@ -9,7 +9,8 @@ progress:
 * ✓ Information/dialogue windows
 * ✓ Unit names
 * ∆ Block names (i need to replace them with unique names)
-* % Block descriptions (partially done)
+* ✓ Block descriptions
+* X Unit descriptions
 * ✓ Campaign maps names
 * X Campaign maps descriptions
 * % Hints (partially done)
