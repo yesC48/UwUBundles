@@ -5,13 +5,14 @@ A mod that's replacing the default english bundle with an UwU language bundle.
 
 -----
 progress:
-* ✓ Menus
-* ✓ Information/dialogue windows
-* ✓ Unit names
-* ∆ Block names (i need to replace them with unique names)
-* ✓ Block descriptions
-* X Unit descriptions
-* ✓ Campaign maps names
-* X Campaign maps descriptions
-* % Hints (partially done)
-* X V7 content
+* ✓  Menus
+* ✓  Information/dialogue windows
+* ✓  Unit names
+* ∆  Block names (i need to replace these with unique names)
+* ✓  Block descriptions
+* ✓∆  Unit descriptions (auto-translated, i need to review them)
+* ✓  Campaign maps names
+* X  Campaign maps descriptions
+* %  Hints (partially done)
+* ✓∆ Logic hints (auto-translated)
+* X  V7 content
