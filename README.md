@@ -12,7 +12,7 @@ progress:
 * ✓  Block descriptions
 * ✓∆  Unit descriptions (auto-translated, i need to review them)
 * ✓  Campaign maps names
-* X  Campaign maps descriptions
-* %  Hints (partially done)
+* ∆  Campaign maps descriptions (auto-translated)
+* ∆  Hints (auto-translated)
 * ✓∆ Logic hints (auto-translated)
 * X  V7 content
