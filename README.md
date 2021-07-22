@@ -8,11 +8,12 @@ progress:
 * ✓  Menus
 * ✓  Information/dialogue windows
 * ✓  Unit names
-* ∆  Block names (i need to replace these with unique names)
+* ✓  Block names
 * ✓  Block descriptions
-* ✓∆  Unit descriptions (auto-translated, i need to review them)
+* ✓  Unit descriptions
 * ✓  Campaign maps names
-* ∆  Campaign maps descriptions (auto-translated)
-* ∆  Hints (auto-translated)
-* ✓∆ Logic hints (auto-translated)
+* ✓  Campaign maps descriptions
+* ✓  Hints
+* ✓  Logic hints
+* ∆  Descriptions & details different from the original ones (partially done)
 * X  V7 content
