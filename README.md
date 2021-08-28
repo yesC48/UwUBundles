@@ -1,4 +1,4 @@
-A mod that's replacing the default english bundle with an UwU language bundle.
+A mod that replaces the default english bundle with an UwU language bundle.
 
 ***Found a spelling mistake? Any ideas for improvement? Feel free to create a pull request.***
 
@@ -16,4 +16,4 @@ progress:
 * ✓  Hints
 * ✓  Logic hints
 * ∆  Descriptions & details different from the original ones (partially done)
-* X  V7 content
+* ✓ V7 content (up to 130.1)
